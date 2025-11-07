@@ -5,3 +5,4 @@ def test_addition():
 
 if __name__ == "__main__":
     print(test_addition())
+    print("Hello")
